@@ -1,0 +1,1 @@
+This app finds the best stock based on volume % change. For example, if a stock usually has 100 volume and today it has 250, it is a 150% increase so it is ranked based on that. This contains all the Nasdaq live data using it's API
