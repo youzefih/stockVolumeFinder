@@ -1,1 +1,2 @@
-This app finds the best stock based on volume % change. For example, if a stock usually has 100 volume and today it has 250, it is a 150% increase so it is ranked based on that. This contains all the Nasdaq live data using it's API
+
+This Java application uses yahoo-finance API to download all of the real-time Volume of all nasdaq stocks, as well as their daily volume average. Then, it get's the ratio of the average volume versus the current volume to see the percent change. Ultimately, The it outputs on a .txt file the stocks sorted from highest volume percent change to lowest.
